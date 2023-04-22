@@ -1,0 +1,3 @@
+{
+  "app": "node -r esbuild-register src/app/index"
+}
